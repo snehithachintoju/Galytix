@@ -1,0 +1,10 @@
+name: galytix-interview-01
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # python
+  - python=3.7.6
+  - ipykernel=5.1.1
+  - scikit-learn
+  - pandas
